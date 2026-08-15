@@ -117,13 +117,13 @@ To run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/K-Shivakumar07/Amazon.com-Clone)
+git clone https://github.com/K-Shivakumar07/Amazon.com-Clone
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd amazon-com-clone
+cd Amazon.com-Clone
 ```
 
 ### 3. Open the project
