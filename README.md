@@ -153,9 +153,9 @@ Through this project, I gained practical experience in:
 
 
 
-```markdown
-(https://github.com/K-Shivakumar07/Amazon.com-Clone/blob/main/amazon-com-clone-beta.vercel.app_.png?raw=true)
-```
+
+![Amazon.com-clone](https://github.com/K-Shivakumar07/Amazon.com-Clone/blob/main/amazon-com-clone-beta.vercel.app_.png?raw=true)
+
 
 ## ⚠️ Disclaimer
 
