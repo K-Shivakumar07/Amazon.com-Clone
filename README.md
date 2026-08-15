@@ -154,7 +154,7 @@ Through this project, I gained practical experience in:
 Add screenshots of your homepage here:
 
 ```markdown
-(https://github.com/K-Shivakumar07/Amazon.com-Clone/blob/032fc8e9ab7f475f21881b17204ac222c1862c03/amazon-com-clone-beta.vercel.app_.png)
+![image alt](https://github.com/K-Shivakumar07/Amazon.com-Clone/blob/main/amazon-com-clone-beta.vercel.app_.png?raw=true)
 ```
 
 ## ⚠️ Disclaimer
