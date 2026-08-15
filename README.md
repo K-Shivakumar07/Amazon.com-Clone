@@ -151,10 +151,10 @@ Through this project, I gained practical experience in:
 
 ## 📸 Project Preview
 
-Add screenshots of your homepage here:
+
 
 ```markdown
-![image alt](https://github.com/K-Shivakumar07/Amazon.com-Clone/blob/main/amazon-com-clone-beta.vercel.app_.png?raw=true)
+(https://github.com/K-Shivakumar07/Amazon.com-Clone/blob/main/amazon-com-clone-beta.vercel.app_.png?raw=true)
 ```
 
 ## ⚠️ Disclaimer
