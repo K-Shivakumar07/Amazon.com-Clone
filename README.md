@@ -8,8 +8,7 @@ A responsive **Amazon.com-inspired web interface** built using **HTML and CSS**.
 
 The project is deployed using Vercel.
 
-**Live Demo:** Amazon.com Web Interface Clone
-
+**Live Demo:** https://amazon-com-clone-beta.vercel.app/
 ## 📌 Project Overview
 
 This project recreates the look and feel of an Amazon-style e-commerce homepage using only **HTML and CSS**.
